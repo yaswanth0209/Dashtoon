@@ -21,7 +21,7 @@ Neural style transfer is a computational approach that merges two images: a cont
 
 This dataset contains images created using neural style transfer techniques. [Explore the dataset](https://www.kaggle.com/datasets/vbookshelf/art-by-ai-neural-style-transfer) for more details.
 
-### Three different styles
+### Different styles considered
 
 ![Image 1](https://github.com/yaswanth0209/Dashtoon/blob/main/image/style_1.png) | ![Image 2](https://github.com/yaswanth0209/Dashtoon/blob/main/image/style_2.png) | 
 :-------------------------:|:-------------------------:|
@@ -36,12 +36,6 @@ Style 1       | Style 2      |
 :-------------------------:|:-------------------------:|
 Input 1       | Input 2      |
 ### Test Outputs
-
-1. Cuphead Style - Zurich
-   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/cuphead-zurich.jpeg)
-
-2. Mosaic Style - Zurich
-   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/mosaic-zurich.jpeg)
-
-3. Stylized - Zurich
-   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_output/stylized-zurich.jpeg)
+![Image 1](https://github.com/yaswanth0209/Dashtoon/blob/main/image/raw_1.png) | ![Image 2](https://github.com/yaswanth0209/Dashtoon/blob/main/image/raw_2.png) | 
+:-------------------------:|:-------------------------:|
+Output 1       | Ouput 2      |
