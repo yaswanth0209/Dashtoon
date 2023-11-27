@@ -32,7 +32,7 @@ Style 1       | Style 2      |
 
 ### Test Input
 
-![Image 1](https://github.com/yaswanth0209/Dashtoon/blob/main/image/raw_1.png) | ![Image 2](https://github.com/yaswanth0209/Dashtoon/blob/main/image/raw_2.png) | 
+![Image 1](https://github.com/yaswanth0209/Dashtoon/blob/main/image/s_1.png) | ![Image 2](https://github.com/yaswanth0209/Dashtoon/blob/main/image/raw_2.png) | 
 :-------------------------:|:-------------------------:|
 Input 1       | Input 2      |
 ### Test Outputs
