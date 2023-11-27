@@ -32,8 +32,9 @@ Style 1       | Style 2      |
 
 ### Test Input
 
-![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Test_image/zurich.jpeg)
-
+![Image 1](https://github.com/yaswanth0209/Dashtoon/blob/main/image/style_1.png) | ![Image 2](https://github.com/yaswanth0209/Dashtoon/blob/main/image/style_2.png) | 
+:-------------------------:|:-------------------------:|
+Input 1       | Input 2      |
 ### Test Outputs
 
 1. Cuphead Style - Zurich
