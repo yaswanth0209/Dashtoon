@@ -5,7 +5,7 @@ This repository contains code for neural style transfer using PyTorch.
 
 ## Overview
 
-Neural style transfer is an optimization technique used to take two images — a content image and a style reference image — and blend them together in such a way that the output image looks like the content image, but "painted" in the style of the style reference image.
+Neural style transfer is a computational approach that merges two images: a content image and a stylistic reference image. Through optimization, it crafts an output image that preserves the content of the original while imbuing it with the artistic characteristics of the reference image, resulting in a visually harmonized synthesis of the two
 
 ## Getting Started
 
@@ -23,14 +23,13 @@ This dataset contains images created using neural style transfer techniques. [Ex
 
 ### Three different styles
 
-1. Cuphead Style
+1. Style 1
    ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/cuphead.jpg)
 
-2. Mosaic Style
-   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/mosaic.jpg)
+2. Style 2
 
-3. Starry Night Style
-   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/starry_night.jpg)
+
+
 
 ### Test Input
 
