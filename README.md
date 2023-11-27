@@ -23,10 +23,9 @@ This dataset contains images created using neural style transfer techniques. [Ex
 
 ### Three different styles
 
-1. Style 1
-   ![Alt Text](https://github.com/yaswanth0209/Dashtoon/blob/main/image/style_2.png)
-
-2. Style 2
+![Image 1]() | ![Image 2](url_to_image_2) | 
+:-------------------------:|:-------------------------:|
+Style 1       | Style 2      |
 
 
 
