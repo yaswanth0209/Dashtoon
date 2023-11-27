@@ -24,7 +24,7 @@ This dataset contains images created using neural style transfer techniques. [Ex
 ### Three different styles
 
 1. Style 1
-   ![Alt Text](https://github.com/Basheer22EE65R19/Artistic-Style-Transfer-Dashtoon/blob/main/Images/Styles/cuphead.jpg)
+   ![Alt Text](https://github.com/yaswanth0209/Dashtoon/blob/main/image/style_2.png)
 
 2. Style 2
 
